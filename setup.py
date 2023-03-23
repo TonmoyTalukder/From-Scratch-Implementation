@@ -8,8 +8,4 @@ setup(
     author_email='tonmoytalukder2000@gmail.com',
     py_modules=['fromscratchbytt'],
     python_requires='>=3.6',
-    install_requires=[
-        'string',
-        'math'
-    ]
 )
